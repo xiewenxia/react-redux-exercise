@@ -43,6 +43,7 @@ class CommentListContainer extends Component {
       this.props.onDeleteComment(index)
     }
   }
+  
 
   render () {
     return (
